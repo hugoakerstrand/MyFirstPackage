@@ -3,4 +3,5 @@
 export(CalcTSNE)
 export(get.var.genes)
 export(myheatmap)
+export(read.facs)
 export(read.myfile)
