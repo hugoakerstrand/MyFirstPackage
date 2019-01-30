@@ -5,5 +5,7 @@ setClass("scell",slots=c(
   data="matrix",
   var.genes="character",
   tsne="matrix",
-  facs ="matrix"
+  facs ="matrix",
+  pheatout = "list",
+  clusters = "integer"
   ))

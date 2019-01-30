@@ -2,6 +2,7 @@
 
 export(CalcTSNE)
 export(get.var.genes)
+export(my.clusters)
 export(myheatmap)
 export(read.facs)
 export(read.myfile)
